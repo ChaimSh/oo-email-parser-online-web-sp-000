@@ -11,7 +11,7 @@ def initialize(email)
   end
 
 def parse
-@email.uniq.split(",")
+@email.split(",")
 end
 
 
