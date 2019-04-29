@@ -13,7 +13,7 @@ def initialize(email)
   @@all << self
   end
 
-def parse
+def parse(email)
 
 end
 
